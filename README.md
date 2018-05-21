@@ -2,10 +2,8 @@
 
 # StickyNotes
 
-* [Vido Mladenovic](https://www.linkedin.com/in/stro-vido-mae/)
-<br>
-* [Dusan Pilipovic](https://github.com/razzil1)
-<br>
+* [Vido Mladenovic](https://www.linkedin.com/in/stro-vido-mae/)<br>
+* [Dusan Pilipovic](https://github.com/razzil1)<br>
 
 ## About
 
